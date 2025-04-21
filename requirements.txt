@@ -1,0 +1,7 @@
+streamlit
+sounddevice
+vosk
+openai
+sentence-transformers
+faiss-cpu
+torch
